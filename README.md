@@ -20,7 +20,6 @@ Data Format: CSV file containing Years of Experience and Salary.
 
 Dataset:
 The dataset consists of two columns:
-
 YearsExperience: The number of years an employee has worked.
 Salary: The corresponding salary for the given experience.
 
