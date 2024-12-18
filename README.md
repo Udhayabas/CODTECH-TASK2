@@ -5,8 +5,11 @@ DOMAIN:DATA SCIENCE
 DURATION:NOVEMBER 30TH, 2024 TO DECEMBER 30TH, 2024
 MENTOR:MUZAMMIL
 
+![linear regression 2](https://github.com/user-attachments/assets/b2071bf9-e1d4-4712-8947-61cd76b09b99)
+![Screenshot linear regression](https://github.com/user-attachments/assets/6909cc59-1e85-4128-b5dd-247ecdc692d0)
 
 Project Title: Salary Prediction Using Linear Regression
+
 Objective:
 The project aims to develop a machine learning model that predicts an employee's salary based on their years of experience.
 It demonstrates proficiency in data preprocessing, regression analysis, model evaluation, and visualization.
